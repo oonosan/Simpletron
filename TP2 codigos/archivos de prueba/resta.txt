@@ -1,0 +1,12 @@
++0100009; LEER en la posición de memoria 09
++0100010; LEER en la posición de memoria 10
++0200009; CARGAR la posición de memoria 09 al acumulador
++0310010; RESTAR al acumulador la posición de memoria 10
++0410007; JMPNEG salta a la pos. 07 si el acumulador es negativo
++0110009; ESCRIBIR por pantalla el contenido de la memoria 09
++0400008; JMP salta a la posición de memoria 08
++0110010; ESCRIBIR por pantalla el contenido de la memoria 10
++0450000; HALT
++0000000;
++0000000;
++0000000;
